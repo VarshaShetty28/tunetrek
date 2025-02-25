@@ -1,6 +1,6 @@
 # TuneTrek 🎧🚀
 
-TuneTrek is a React-based web application designed for headphone enthusiasts. It provides a seamless and interactive experience to explore, compare, and filter headphones based on brand, features, and budget. Built with Framer Motion, TuneTrek offers smooth animations and an intuitive UI. The app is fully responsive, ensuring an optimal experience across all devices.
+TuneTrek is a React-based web application frontend designed for headphone enthusiasts. It provides a seamless and interactive experience to explore, compare, and filter headphones based on brand, features, and budget. Built with Framer Motion, TuneTrek offers smooth animations and an intuitive UI. The app is fully responsive, ensuring an optimal experience across all devices.
 
 ## Features ✨
 
